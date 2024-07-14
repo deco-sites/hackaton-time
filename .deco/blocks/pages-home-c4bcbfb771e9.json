@@ -73,7 +73,8 @@
       "priceum": "299.99",
       "pricedois": "199.99",
       "nomedois": "Boné Fluxo Branco",
-      "buynow": "COMPRE AGORA"
+      "buynow": "COMPRE AGORA",
+      "firstLink": "/productpage"
     },
     {
       "__resolveType": "site/sections/Colecao.tsx",
