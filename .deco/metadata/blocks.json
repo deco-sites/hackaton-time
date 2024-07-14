@@ -117,12 +117,6 @@
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
   },
-  "/.deco/blocks/pages-productpage-ce4850591828.json": {
-    "name": "Product Page",
-    "path": "/products/:slug",
-    "blockType": "pages",
-    "__resolveType": "website/pages/Page.tsx"
-  },
   "/.deco/blocks/site.json": {
     "blockType": "apps",
     "__resolveType": "site/apps/site.ts"
@@ -188,5 +182,11 @@
   "/.deco/blocks/Preview%20%2Fsections%2FContent%2FHero.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Content/Hero.tsx"
+  },
+  "/.deco/blocks/pages-Product-735650.json": {
+    "name": "Product",
+    "path": "/productpage",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
   }
 }

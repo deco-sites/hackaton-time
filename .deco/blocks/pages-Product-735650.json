@@ -1,0 +1,13 @@
+{
+  "name": "Product",
+  "path": "/productpage",
+  "sections": [
+    {
+      "__resolveType": "global header"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
