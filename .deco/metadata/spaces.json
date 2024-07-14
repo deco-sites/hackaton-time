@@ -1803,8 +1803,7 @@
           "width": 30,
           "id": "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Properties::list::Properties::%7B%7D",
           "state": {
-            "__signal": null,
-            "value": null
+            "__signal": null
           }
         },
         "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Preview::visibility::Preview::%7B%7D": {
@@ -2194,7 +2193,7 @@
             "content": [
               {
                 "type": "stack",
-                "width": 16.593059936908517,
+                "width": 41.66666666666667,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -2216,7 +2215,7 @@
               },
               {
                 "type": "stack",
-                "width": 83.40694006309148,
+                "width": 58.333333333333336,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -2255,8 +2254,7 @@
           "width": 30,
           "id": "%2F.deco%2Fblocks%2Fpages-productpage-ce4850591828.json::Properties::list::Properties::%7B%7D",
           "state": {
-            "__signal": null,
-            "value": null
+            "__signal": null
           }
         },
         "%2F.deco%2Fblocks%2Fpages-productpage-ce4850591828.json::Preview::visibility::Preview::%7B%7D": {
