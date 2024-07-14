@@ -1,0 +1,43 @@
+{
+  "name": "bone",
+  "path": "/bone",
+  "sections": [
+    {
+      "__resolveType": "global header"
+    },
+    {
+      "__resolveType": "site/sections/Product.tsx",
+      "images": [
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/473d4d4d-14a0-449a-8b27-f1cef9373d4c",
+          "alt": "bone"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/3ab33985-9095-4ee9-b7c8-29c913bdcb47",
+          "alt": "camisa preta polo"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/7d550161-654e-423a-a289-e36623daf4e8",
+          "alt": "bone"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/118712f5-0baf-4191-bf72-2b1a29b0813b",
+          "alt": "bone"
+        }
+      ],
+      "title": "CAMISA FLUXO COMBATE'23",
+      "price": "R$120,00",
+      "description": "A COLEÇÃO FLUXO NEW ERA FOI DESENVOLVIDA COM O CONCEITO FROM HEART TO MIND (DO CORAÇÃO À MENTE, EM TRADUÇÃO LIVRE). ELA LEVA O SENTIMENTO QUE ESTÁ NO PEITO DO TORCEDOR PARA A CABEÇA COMO UMA FORMA DE PENSAR E AGIR. SEGUIR O FLUXO NÃO É SOMENTE SOBRE TORCER, É UM SENTIMENTO QUE VIROU ESTILO DE VIDA, EXPRESSÃO E PERSONALIDADE.",
+      "addCardText": "ADICIONAR AO CARRINHO",
+      "buyText": "COMPRAR",
+      "variations": [
+        "WHITE",
+        "RED"
+      ]
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

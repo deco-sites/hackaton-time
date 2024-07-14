@@ -1,0 +1,38 @@
+{
+  "__resolveType": "website/pages/Page.tsx",
+  "sections": [
+    {
+      "__resolveType": "global header"
+    },
+    {
+      "__resolveType": "site/sections/Product.tsx",
+      "images": [
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/9a27d15b-3284-4715-88cc-ea5a93ce1a02",
+          "alt": "camisa preta"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/8780de4e-8e47-442d-bf87-25d6e6ae25b5",
+          "alt": "camisa preta2"
+        }
+      ],
+      "title": "CAMISA FLUXO COMBATE'23",
+      "price": "R$189,99",
+      "description": "Official Collection FLUXO 2022",
+      "addCardText": "ADICIONAR AO CARRINHO",
+      "buyText": "COMPRAR",
+      "variations": [
+        "P",
+        "G",
+        "M",
+        "G",
+        "GG"
+      ]
+    }
+  ],
+  "name": "camisa fluxo 22",
+  "path": "/camisafluxo22",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "__resolveType": "website/pages/Page.tsx",
+  "sections": [
+    {
+      "__resolveType": "global header"
+    },
+    {
+      "__resolveType": "site/sections/Product.tsx",
+      "images": [
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/77aabd3d-26cb-44c8-9b9d-49366fc6caf7",
+          "alt": "reat"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/213395bb-4a36-48f7-abd9-435618be8fad",
+          "alt": "regata"
+        }
+      ],
+      "title": "Camisa Regata Fluxo",
+      "price": "R$189,99",
+      "description": "Official Collection FLUXO 2022",
+      "addCardText": "ADICIONAR AO CARRINHO",
+      "buyText": "COMPRAR",
+      "variations": [
+        "P",
+        "G",
+        "M",
+        "G",
+        "GG"
+      ]
+    }
+  ],
+  "name": "camisa-regata",
+  "path": "/camisaregata",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  }
+}

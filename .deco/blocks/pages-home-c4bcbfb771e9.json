@@ -74,7 +74,8 @@
       "pricedois": "199.99",
       "nomedois": "NEW ERA 9FORTY 3C",
       "buynow": "COMPRE AGORA",
-      "firstLink": "/productpage"
+      "firstLink": "/productpage",
+      "secondLink": "/bone"
     },
     {
       "__resolveType": "site/sections/Colecao.tsx",
@@ -90,7 +91,9 @@
       "secondname": "CAMISA FLUXO KOMBAT ‘22",
       "nomeum": "CAMISA FLUXO KOMBAT ‘22",
       "nomedois": "MOLETOM GG FLUXO",
-      "pricedois": "149.99"
+      "pricedois": "149.99",
+      "firstLink": "/camisafluxo22",
+      "secondLink": "/moletom"
     },
     {
       "__resolveType": "site/sections/produto.tsx",
@@ -101,7 +104,9 @@
       "secondname": "CAMISA FLUXO KOMBAT ‘22",
       "nomeum": "KIT ESPORTE FLUXO '23",
       "nomedois": "CAMISA CASAL FLUXO",
-      "pricedois": "149.99"
+      "pricedois": "149.99",
+      "firstLink": "/productpage",
+      "secondLink": "/productpage"
     },
     {
       "__resolveType": "site/sections/Meufooter.tsx",
