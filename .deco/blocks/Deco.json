@@ -10,21 +10,12 @@
     "__resolveType": "website/loaders/fonts/googleFonts.ts",
     "fonts": [
       {
-        "variations": [
-          {
-            "weight": "400"
-          },
-          {
-            "weight": "500"
-          },
-          {
-            "weight": "600"
-          },
-          {
-            "weight": "700"
-          }
-        ],
-        "family": "Inter Tight"
+        "variations": [],
+        "family": "Montserrat"
+      },
+      {
+        "variations": [],
+        "family": "League Gothic"
       }
     ]
   },
@@ -44,7 +35,11 @@
     "success": "#219259",
     "warning": "#a39e0f",
     "error": "#d10a0a",
+<<<<<<< HEAD
     "info": "#3c4cc8",
+=======
+    "info": "#5D02E0",
+>>>>>>> main
     "neutral": "#353535"
   },
   "complementaryColors": {

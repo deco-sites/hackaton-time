@@ -2,21 +2,34 @@
   "name": "Home",
   "sections": [
     {
-      "__resolveType": "site/sections/header.tsx",
-      "icon": "https://cdn.discordapp.com/attachments/1261797006171439105/1261861561321001012/Fluxo.png?ex=66947fa8&is=66932e28&hm=55c852221aaae41a57e3338a4c3633e67325f4f532a2032ba22c8780dc7e6c39&",
-      "firsta": "Home",
-      "seconda": "Loja",
-      "thirda": "lançamento"
+      "__resolveType": "global header"
     },
     {
       "__resolveType": "site/sections/Images/Carousel.tsx",
       "images": [
         {
-          "alt": "fluxo",
-          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/137ef679-7dad-4b46-b8be-cd1bd9e2d65a",
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/49e68175-56c6-48fd-b69b-4605244b2871"
+          "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/3a58542d-0e9e-46b4-add8-62d8be813921",
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/fc312c23-352c-4f93-884b-fa963bfa0e37",
+          "alt": "fluxo"
         }
       ]
+    },
+    {
+      "__resolveType": "site/sections/patrocinio.tsx",
+      "firstpatro": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/cd59c64d-7fe1-482d-8570-363124d5f6d7",
+      "secondpatro": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/daeb9dbc-ccfd-497e-a4e2-cdbcd0ea03f7",
+      "thirdpatro": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/62907b06-2b87-40fe-8d0c-9262f00c13d7",
+      "firstpatroname": "cartão de todos",
+      "secondpatroname": "smartfit",
+      "fourthpatro": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/f0c3c8ea-e438-4cf4-bd7c-629fb49e213c",
+      "thirdpatroname": "UltraGear",
+      "fourthpatroname": "Estrelabet",
+      "fifthpatro": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/cfa65214-75f9-41ce-a885-db5f2a0eccb7",
+      "fifthpatroname": "Clear",
+      "secondpatrourl": "https://www.smartfit.com.br/academias?gad_source=1&gclid=CjwKCAjw7s20BhBFEiwABVIMrbMA43p2eYriRU_Yj0WrhiYWyquYmQBdndDpB4O_nskixxuTKFTTtxoCiAQQAvD_BwE",
+      "firstpatrourl": "https://solicite.cartaodetodos.com.br/pagamento?utm_campaign=topsegmentos&utm_source=google&utm_medium=cpc&utm_content=pmax&utm_term=&utm_campaign=%5BP.MAX%5D%5BVENDA%5D%5BCDT_NACIONAL%5D%5BGERAL%5D%5B02/01/24%5D&utm_source=google&utm_medium=cpc&hsa_acc=7583204052&hsa_cam=21397943972&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjw7s20BhBFEiwABVIMrXwxbb3UlzPN_5oR-LVuKcXyXxsnps2n56vqtf9vEE2tU7ZksFkS6xoCd9cQAvD_BwE",
+      "thirdpatrourl": "https://www.lg.com/br/monitores/monitores-ultragear/",
+      "fifthpatrourl": "https://www.clearhaircare.com/br/home.html"
     },
     {
       "__resolveType": "site/sections/Content/Logos.tsx",
@@ -48,6 +61,58 @@
           "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/16201bf1-adc3-4e4f-a92d-7518ec4b2ccd"
         }
       ]
+    },
+    {
+      "__resolveType": "site/sections/produto.tsx",
+      "first": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/dc6a7d11-02fc-4012-a47d-6e10c9d1ffb5",
+      "firstname": "CAMISA FLUXO KOMBAT'23",
+      "price": "299",
+      "firstsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/ce2e586c-8ca4-4c3c-a6d1-b05047d65a39",
+      "nomeum": "CAMISA FLUXO KOMBAT'23",
+      "secondsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/68a47f51-cb0b-4de5-bb38-b90162c523db",
+      "priceum": "299.99",
+      "pricedois": "199.99",
+      "nomedois": "Boné Fluxo Branco",
+      "buynow": "COMPRE AGORA"
+    },
+    {
+      "__resolveType": "site/sections/Colecao.tsx",
+      "titlecolection": "Coleção ",
+      "yearcolection": 2022
+    },
+    {
+      "__resolveType": "site/sections/produto.tsx",
+      "firstsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/90154870-ed2a-4c74-92e6-bbb7b1020ae6",
+      "buynow": "COMPRE AGORA",
+      "secondsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/81f8504a-97ab-4c95-a9b1-5c163f5fbaea",
+      "priceum": "189.49",
+      "secondname": "CAMISA FLUXO KOMBAT ‘22",
+      "nomeum": "CAMISA FLUXO KOMBAT ‘22",
+      "nomedois": "MOLETOM GG FLUXO",
+      "pricedois": "149.99"
+    },
+    {
+      "__resolveType": "site/sections/produto.tsx",
+      "firstsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/587bcd16-614f-46bb-b0f7-ec51ba1c01db",
+      "buynow": "COMPRE AGORA",
+      "secondsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/a09778cb-28a0-4525-857e-e1bb0ddf121a",
+      "priceum": "189.49",
+      "secondname": "CAMISA FLUXO KOMBAT ‘22",
+      "nomeum": "KIT ESPORTE FLUXO '23",
+      "nomedois": "CAMISA CASAL FLUXO",
+      "pricedois": "149.99"
+    },
+    {
+      "__resolveType": "site/sections/Meufooter.tsx",
+      "politicapriv": "Política de Privacidade",
+      "politicaReem": "Política de Reembolso",
+      "Politicafrete": "Política de Frete",
+      "loja": "Loja",
+      "reemblink": "#",
+      "privalink": "#",
+      "fretelink": "#",
+      "home": "Home",
+      "imgsrc": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/16201bf1-adc3-4e4f-a92d-7518ec4b2ccd"
     }
   ],
   "__resolveType": "website/pages/Page.tsx",

@@ -1,0 +1,19 @@
+{
+  "__resolveType": "site/sections/header.tsx",
+  "icon": "https://cdn.discordapp.com/attachments/1261797006171439105/1261861561321001012/Fluxo.png?ex=66947fa8&is=66932e28&hm=55c852221aaae41a57e3338a4c3633e67325f4f532a2032ba22c8780dc7e6c39&",
+  "firsta": "HOME",
+  "seconda": "LOJA",
+  "thirda": "LANÇAMENTO",
+  "secondnava": "LOJA",
+  "firstnava": "HOME",
+  "thirdnava": "LANÇAMENTO",
+  "firsticon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/05f3af71-5e53-4071-85c3-1d6ed676f963",
+  "firsticondescri": "Profile",
+  "secondicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/1077224f-8ad3-45d5-80cc-388456b7014e",
+  "thirdicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/bdbe87db-0261-4c68-a04f-607367af4ace",
+  "secondicondescri": "search",
+  "firsticonurl": "#",
+  "secondiconurl": "#",
+  "thirdiconurl": "#",
+  "thirdicondescri": "cart"
+}
