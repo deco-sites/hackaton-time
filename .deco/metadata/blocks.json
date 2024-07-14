@@ -188,5 +188,13 @@
     "path": "/productpage",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2Fheader.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/header.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2Fproduto.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/produto.tsx"
   }
 }

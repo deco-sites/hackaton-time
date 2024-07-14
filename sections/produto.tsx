@@ -3,7 +3,9 @@ import Image from "apps/website/components/Image.tsx";
 
 export interface props {
   firstsrc?: ImageWidget;
+  firstLink?: string;
   secondsrc?: ImageWidget;
+  secondLink?: string;
   secondname?: string;
   priceum: string;
   pricedois: string;
@@ -15,7 +17,7 @@ export interface props {
 export default function (props: props) {
   return (
     <div class="flex px-4 max-w-[1920px] mx-auto">
-      <div class="w-1/2 border border-2 border-neutral overflow-hidden hover:bg-primary text-primary hover:text-info transition-all duration-500">
+      <a href={props.firstLink || ""} class="w-1/2 border border-2 cursor-pointer border-neutral overflow-hidden hover:bg-primary text-primary hover:text-info transition-all duration-500">
         <div class="flex justify-between w-full py-8 pr-6">
           <h1 class="min-w-24 md:w-full max-w-[430] text-4xl mb-4 min-h-20 pl-4 text-start font-bold">
             {props.nomeum}
@@ -33,8 +35,8 @@ export default function (props: props) {
           <button class="p-4 underline">{props.buynow}🠒</button>
           <p class="p-4">{props.priceum}</p>
         </div>
-      </div>
-      <div class="w-1/2 border border-2 border-neutral overflow-hidden hover:bg-primary text-primary hover:text-info transition-all duration-500">
+      </a>
+      <a href={props.secondLink || ""} class="w-1/2 border border-2 cursor-pointer border-neutral overflow-hidden hover:bg-primary text-primary hover:text-info transition-all duration-500">
         <div class="flex justify-between w-full py-8 pr-6">
           <h1 class="min-w-24 md:w-full text-4xl max-w-[430px] pl-4 mb-4 min-h-20 text-start font-bold">
             {props.nomedois}
@@ -52,7 +54,7 @@ export default function (props: props) {
           <button class="p-4 underline">{props.buynow}🠒</button>
           <p class="p-4">{props.pricedois}</p>
         </div>
-      </div>
+      </a>
     </div>
   );
 }
