@@ -25,19 +25,19 @@ export default function (props: props) {
           <img src={props.icon} alt="" class="pl-5 h-15 pt-5px" />
           <nav class="text-primary p-[20px]">
             <a
-              href="#"
+              href="/"
               class="text-primary py-2 px-4 border-l border-r border-neutral"
             >
               {props.firstnava}
             </a>
             <a
-              href="#"
+              href="/"
               class="text-primary py-2 px-4 border-l border-r border-neutral"
             >
               {props.secondnava}
             </a>
             <a
-              href="#"
+              href="/"
               class="text-primary py-2 px-4 border-l border-r border-neutral"
             >
               {props.thirdnava}
