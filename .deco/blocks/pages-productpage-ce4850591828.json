@@ -6,6 +6,15 @@
   },
   "sections": [
     {
+<<<<<<< HEAD
+      "__resolveType": "site/sections/Product.tsx",
+      "title": "CAMISA FLUXO KOMBAT ‘23",
+      "description": "Quebre as regras e viva a vida do seu jeito com a Camisa Fluxo Kombat 23 Masculina! Aliada daqueles que querem um visual chave nos rolês, na torcida ou jogando, essa camisa Fluxo representa uma das maiores equipes de eSports do Brasil. Bora pra cima com essa camisa Fluxo masculina! Segue o Fluxo!",
+      "images": [
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/c81981bf-ce8a-4e83-87be-ff70ea0ecb39",
+          "alt": "camista preta com a logo da fluxo no peito esquerdo"
+=======
       "__resolveType": "global header"
     },
     {
@@ -32,20 +41,34 @@
           "sort": "",
           "query": "a",
           "count": 9
+>>>>>>> main
         },
-        "filters": {
-          "tags": [],
-          "productTypes": [],
-          "productVendors": [],
-          "variantOptions": []
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/c81981bf-ce8a-4e83-87be-ff70ea0ecb39",
+          "alt": "camista preta com a logo da fluxo no peito esquerdo"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/c81981bf-ce8a-4e83-87be-ff70ea0ecb39",
+          "alt": "camista preta com a logo da fluxo no peito esquerdo"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/c81981bf-ce8a-4e83-87be-ff70ea0ecb39",
+          "alt": "camista preta com a logo da fluxo no peito esquerdo"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/c81981bf-ce8a-4e83-87be-ff70ea0ecb39",
+          "alt": "camista preta com a logo da fluxo no peito esquerdo"
         }
-      }
-    },
-    {
-      "__resolveType": "site/sections/Newsletter/Newsletter.tsx"
-    },
-    {
-      "__resolveType": "Footer"
+      ],
+      "variations": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
+      "price": "R$189,99",
+      "addCardText": "Adicionar ao carrinho",
+      "buyText": "Comprar"
     }
   ],
   "__resolveType": "website/pages/Page.tsx"
