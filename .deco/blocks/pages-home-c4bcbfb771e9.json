@@ -8,9 +8,9 @@
       "__resolveType": "site/sections/Images/Carousel.tsx",
       "images": [
         {
-          "alt": "fluxo",
           "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/3a58542d-0e9e-46b4-add8-62d8be813921",
-          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/fc312c23-352c-4f93-884b-fa963bfa0e37"
+          "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/fc312c23-352c-4f93-884b-fa963bfa0e37",
+          "alt": "fluxo"
         }
       ]
     },
