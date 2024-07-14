@@ -2303,9 +2303,9 @@
     },
     {
       "id": "/.deco/blocks/Preview%20%2Fsections%2FColecao.tsx.json",
-      "name": "Colecao.tsx",
+      "name": "Preview /sections/Colecao.tsx",
       "pinned": false,
-      "icon": "code",
+      "icon": "block",
       "layout": {
         "settings": {
           "hasHeaders": true,

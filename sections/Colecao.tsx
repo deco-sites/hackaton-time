@@ -6,7 +6,7 @@ export interface props {
 export default function (props: props) {
   return (
     <div class="py-12 max-w-[1920px] mx-auto">
-      <div class="text-white text-6xl">
+      <div class="text-white text-8xl">
         <p class="font-bold">
           {props.titlecolection}{" "}
           <span class="text-info tracking-widest">{props.yearcolection}</span>
