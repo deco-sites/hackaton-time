@@ -20,7 +20,7 @@ export default function (props: props) {
           <h1 class="min-w-24 md:w-full max-w-[430] text-4xl mb-4 min-h-20 pl-4 text-start font-bold">
             {props.nomeum}
           </h1>
-          <button class="text-secondary text-4xl border border-solid border-2 p-4 mb-4 border-neutral hover:bg-secondary hover:text-primary font-bold">
+          <button class="text-secondary text-4xl border border-solid border-2 p-4 mb-4 border-neutral transition-all duration-400 hover:bg-secondary hover:text-primary font-bold">
             NOVO
           </button>
         </div>
