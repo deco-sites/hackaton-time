@@ -196,5 +196,11 @@
   "/.deco/blocks/Preview%20%2Fsections%2Fproduto.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/produto.tsx"
+  },
+  "/.deco/blocks/pages-homeTest-6754.json": {
+    "name": "homeTest",
+    "path": "/teste",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
   }
 }
