@@ -4,6 +4,46 @@
   "sections": [
     {
       "__resolveType": "global header"
+    },
+    {
+      "__resolveType": "site/sections/Product.tsx",
+      "images": [
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/c81981bf-ce8a-4e83-87be-ff70ea0ecb39",
+          "alt": "camisa preta polo"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/ce2e586c-8ca4-4c3c-a6d1-b05047d65a39",
+          "alt": "camisa preta polo"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/c81981bf-ce8a-4e83-87be-ff70ea0ecb39",
+          "alt": "camisa preta polo"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/ce2e586c-8ca4-4c3c-a6d1-b05047d65a39",
+          "alt": "camisa preta polo"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/c81981bf-ce8a-4e83-87be-ff70ea0ecb39",
+          "alt": "camisa preta polo"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/2830f607-2c4d-4119-a259-18fb8d098cac",
+          "alt": "cara com camisa"
+        }
+      ],
+      "title": "CAMISA FLUXO COMBATE'23",
+      "price": "R$189,99",
+      "description": "Quebre as regras e viva a vida do seu jeito com a Camisa Fluxo Kombat 23 Masculina! Aliada daqueles que querem um visual chave nos rolês, na torcida ou jogando, essa camisa Fluxo representa uma das maiores equipes de eSports do Brasil. Bora pra cima com essa camisa Fluxo masculina! Segue o Fluxo!",
+      "addCardText": "ADICIONAR AO CARRINHO",
+      "buyText": "COMPRAR",
+      "variations": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ]
     }
   ],
   "seo": {
