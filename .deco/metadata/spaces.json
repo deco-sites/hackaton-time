@@ -1948,7 +1948,7 @@
             "content": [
               {
                 "type": "stack",
-                "width": 29.77917981072555,
+                "width": 24.390243902439025,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -1970,7 +1970,7 @@
               },
               {
                 "type": "stack",
-                "width": 70.22082018927445,
+                "width": 51.21951219512194,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -1985,6 +1985,27 @@
                       "id": "%2F.deco%2Fblocks%2Fpages-productpage-ce4850591828.json::Preview::visibility::Preview::%7B%7D"
                     },
                     "width": 70,
+                    "isClosable": true,
+                    "reorderEnabled": true
+                  }
+                ]
+              },
+              {
+                "type": "stack",
+                "width": 24.390243902439018,
+                "isClosable": true,
+                "reorderEnabled": true,
+                "title": "",
+                "activeItemIndex": 0,
+                "content": [
+                  {
+                    "id": "%2F.deco%2Fblocks%2Fpages-productpage-ce4850591828.json::JSON%20Properties::data-object::JSON%20Properties::%7B%7D",
+                    "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2Fpages-productpage-ce4850591828.json::JSON%20Properties::data-object::JSON%20Properties::%7B%7D\" />",
+                    "type": "component",
+                    "componentName": "component",
+                    "componentState": {
+                      "id": "%2F.deco%2Fblocks%2Fpages-productpage-ce4850591828.json::JSON%20Properties::data-object::JSON%20Properties::%7B%7D"
+                    },
                     "isClosable": true,
                     "reorderEnabled": true
                   }
@@ -2009,7 +2030,8 @@
           "width": 30,
           "id": "%2F.deco%2Fblocks%2Fpages-productpage-ce4850591828.json::Properties::list::Properties::%7B%7D",
           "state": {
-            "__signal": null
+            "__signal": null,
+            "value": null
           }
         },
         "%2F.deco%2Fblocks%2Fpages-productpage-ce4850591828.json::Preview::visibility::Preview::%7B%7D": {
@@ -2022,6 +2044,18 @@
           "id": "%2F.deco%2Fblocks%2Fpages-productpage-ce4850591828.json::Preview::visibility::Preview::%7B%7D",
           "state": {
             "__signal": null
+          }
+        },
+        "%2F.deco%2Fblocks%2Fpages-productpage-ce4850591828.json::JSON%20Properties::data-object::JSON%20Properties::%7B%7D": {
+          "name": "JSON Properties",
+          "icon": "data-object",
+          "accepts": "function",
+          "render": "function",
+          "viewId": "JSON Properties",
+          "id": "%2F.deco%2Fblocks%2Fpages-productpage-ce4850591828.json::JSON%20Properties::data-object::JSON%20Properties::%7B%7D",
+          "state": {
+            "__signal": null,
+            "value": null
           }
         }
       }
@@ -2148,13 +2182,12 @@
           }
         }
       }
-<<<<<<< HEAD
     },
     {
-      "id": "/.deco/blocks/Preview%20%2Fsections%2FContent%2FHero.tsx.json",
-      "name": "Hero.tsx",
+      "id": "{\"oid\":\"828ed2e873c8594f775561d7db76fbb916bb0d24\",\"short\":\"828ed2e\",\"commit\":{\"message\":\"alow\\n\",\"parent\":[\"841f0429ef1fe5fb741b10f1741a56de789fb68d\",\"e9dc32992d66ec170d1ed0a3eba5c64e66f0849f\"],\"tree\":\"71d256686482a70115f2e4a076e3b71e5751b5e1\",\"author\":{\"name\":\"ItsAndre548\",\"email\":\"andre548luiz@gmail.com\",\"timestamp\":1720958809,\"timezoneOffset\":180},\"committer\":{\"name\":\"ItsAndre548\",\"email\":\"andre548luiz@gmail.com\",\"timestamp\":1720958809,\"timezoneOffset\":180}}}",
+      "name": "Release 828ed2e",
       "pinned": false,
-      "icon": "code",
+      "icon": "rocket-launch",
       "layout": {
         "settings": {
           "hasHeaders": true,
@@ -2194,40 +2227,19 @@
             "content": [
               {
                 "type": "stack",
-                "width": 50,
+                "width": 100,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
                 "activeItemIndex": 0,
                 "content": [
                   {
-                    "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FContent%252FHero.tsx.json::Preview::visibility::Preview::%7B%7D",
-                    "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FContent%252FHero.tsx.json::Preview::visibility::Preview::%7B%7D\" />",
+                    "id": "%7B%22oid%22%3A%22828ed2e873c8594f775561d7db76fbb916bb0d24%22%2C%22short%22%3A%22828ed2e%22%2C%22commit%22%3A%7B%22message%22%3A%22alow%5Cn%22%2C%22parent%22%3A%5B%22841f0429ef1fe5fb741b10f1741a56de789fb68d%22%2C%22e9dc32992d66ec170d1ed0a3eba5c64e66f0849f%22%5D%2C%22tree%22%3A%2271d256686482a70115f2e4a076e3b71e5751b5e1%22%2C%22author%22%3A%7B%22name%22%3A%22ItsAndre548%22%2C%22email%22%3A%22andre548luiz%40gmail.com%22%2C%22timestamp%22%3A1720958809%2C%22timezoneOffset%22%3A180%7D%2C%22committer%22%3A%7B%22name%22%3A%22ItsAndre548%22%2C%22email%22%3A%22andre548luiz%40gmail.com%22%2C%22timestamp%22%3A1720958809%2C%22timezoneOffset%22%3A180%7D%7D%7D::Release::rocket-launch::Release::%7B%7D",
+                    "title": "<div class=\"contents text-base-700\" id=\"header-%7B%22oid%22%3A%22828ed2e873c8594f775561d7db76fbb916bb0d24%22%2C%22short%22%3A%22828ed2e%22%2C%22commit%22%3A%7B%22message%22%3A%22alow%5Cn%22%2C%22parent%22%3A%5B%22841f0429ef1fe5fb741b10f1741a56de789fb68d%22%2C%22e9dc32992d66ec170d1ed0a3eba5c64e66f0849f%22%5D%2C%22tree%22%3A%2271d256686482a70115f2e4a076e3b71e5751b5e1%22%2C%22author%22%3A%7B%22name%22%3A%22ItsAndre548%22%2C%22email%22%3A%22andre548luiz%40gmail.com%22%2C%22timestamp%22%3A1720958809%2C%22timezoneOffset%22%3A180%7D%2C%22committer%22%3A%7B%22name%22%3A%22ItsAndre548%22%2C%22email%22%3A%22andre548luiz%40gmail.com%22%2C%22timestamp%22%3A1720958809%2C%22timezoneOffset%22%3A180%7D%7D%7D::Release::rocket-launch::Release::%7B%7D\" />",
                     "type": "component",
                     "componentName": "component",
                     "componentState": {
-                      "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FContent%252FHero.tsx.json::Preview::visibility::Preview::%7B%7D"
-                    },
-                    "isClosable": true,
-                    "reorderEnabled": true
-                  }
-                ]
-              },
-              {
-                "type": "stack",
-                "width": 50,
-                "isClosable": true,
-                "reorderEnabled": true,
-                "title": "",
-                "activeItemIndex": 0,
-                "content": [
-                  {
-                    "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FContent%252FHero.tsx.json::Code::code::Code::%7B%7D",
-                    "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FContent%252FHero.tsx.json::Code::code::Code::%7B%7D\" />",
-                    "type": "component",
-                    "componentName": "component",
-                    "componentState": {
-                      "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FContent%252FHero.tsx.json::Code::code::Code::%7B%7D"
+                      "id": "%7B%22oid%22%3A%22828ed2e873c8594f775561d7db76fbb916bb0d24%22%2C%22short%22%3A%22828ed2e%22%2C%22commit%22%3A%7B%22message%22%3A%22alow%5Cn%22%2C%22parent%22%3A%5B%22841f0429ef1fe5fb741b10f1741a56de789fb68d%22%2C%22e9dc32992d66ec170d1ed0a3eba5c64e66f0849f%22%5D%2C%22tree%22%3A%2271d256686482a70115f2e4a076e3b71e5751b5e1%22%2C%22author%22%3A%7B%22name%22%3A%22ItsAndre548%22%2C%22email%22%3A%22andre548luiz%40gmail.com%22%2C%22timestamp%22%3A1720958809%2C%22timezoneOffset%22%3A180%7D%2C%22committer%22%3A%7B%22name%22%3A%22ItsAndre548%22%2C%22email%22%3A%22andre548luiz%40gmail.com%22%2C%22timestamp%22%3A1720958809%2C%22timezoneOffset%22%3A180%7D%7D%7D::Release::rocket-launch::Release::%7B%7D"
                     },
                     "isClosable": true,
                     "reorderEnabled": true
@@ -2244,32 +2256,17 @@
         "maximisedItemId": null
       },
       "tabs": {
-        "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FContent%252FHero.tsx.json::Preview::visibility::Preview::%7B%7D": {
-          "name": "Preview",
-          "icon": "visibility",
-          "accepts": "function",
+        "%7B%22oid%22%3A%22828ed2e873c8594f775561d7db76fbb916bb0d24%22%2C%22short%22%3A%22828ed2e%22%2C%22commit%22%3A%7B%22message%22%3A%22alow%5Cn%22%2C%22parent%22%3A%5B%22841f0429ef1fe5fb741b10f1741a56de789fb68d%22%2C%22e9dc32992d66ec170d1ed0a3eba5c64e66f0849f%22%5D%2C%22tree%22%3A%2271d256686482a70115f2e4a076e3b71e5751b5e1%22%2C%22author%22%3A%7B%22name%22%3A%22ItsAndre548%22%2C%22email%22%3A%22andre548luiz%40gmail.com%22%2C%22timestamp%22%3A1720958809%2C%22timezoneOffset%22%3A180%7D%2C%22committer%22%3A%7B%22name%22%3A%22ItsAndre548%22%2C%22email%22%3A%22andre548luiz%40gmail.com%22%2C%22timestamp%22%3A1720958809%2C%22timezoneOffset%22%3A180%7D%7D%7D::Release::rocket-launch::Release::%7B%7D": {
+          "name": "Release",
+          "icon": "rocket-launch",
           "render": "function",
-          "viewId": "Preview",
-          "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FContent%252FHero.tsx.json::Preview::visibility::Preview::%7B%7D",
+          "viewId": "Release",
+          "id": "%7B%22oid%22%3A%22828ed2e873c8594f775561d7db76fbb916bb0d24%22%2C%22short%22%3A%22828ed2e%22%2C%22commit%22%3A%7B%22message%22%3A%22alow%5Cn%22%2C%22parent%22%3A%5B%22841f0429ef1fe5fb741b10f1741a56de789fb68d%22%2C%22e9dc32992d66ec170d1ed0a3eba5c64e66f0849f%22%5D%2C%22tree%22%3A%2271d256686482a70115f2e4a076e3b71e5751b5e1%22%2C%22author%22%3A%7B%22name%22%3A%22ItsAndre548%22%2C%22email%22%3A%22andre548luiz%40gmail.com%22%2C%22timestamp%22%3A1720958809%2C%22timezoneOffset%22%3A180%7D%2C%22committer%22%3A%7B%22name%22%3A%22ItsAndre548%22%2C%22email%22%3A%22andre548luiz%40gmail.com%22%2C%22timestamp%22%3A1720958809%2C%22timezoneOffset%22%3A180%7D%7D%7D::Release::rocket-launch::Release::%7B%7D",
           "state": {
             "__signal": null
           }
-        },
-        "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FContent%252FHero.tsx.json::Code::code::Code::%7B%7D": {
-          "name": "Code",
-          "icon": "code",
-          "accepts": "function",
-          "render": "function",
-          "viewId": "Code",
-          "id": "%2F.deco%2Fblocks%2FPreview%2520%252Fsections%252FContent%252FHero.tsx.json::Code::code::Code::%7B%7D",
-          "state": {
-            "__signal": null,
-            "value": null
-          }
         }
       }
-=======
->>>>>>> 01cc3c9c479f01f2235ae2964aeaab20d5670830
     }
   ]
 }
