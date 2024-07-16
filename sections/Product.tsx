@@ -16,10 +16,10 @@ export interface Props {
   addCardText?: string;
   buyText?: string;
 
-  /** @hide true */
+  /** @ignore true */
   counter: number;
 
-  /** @hide true */
+  /** @ignore true */
   updateCounter: boolean;
 }
 

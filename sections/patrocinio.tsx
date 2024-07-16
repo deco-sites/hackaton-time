@@ -25,51 +25,56 @@ export interface props {
 
 export default function (props: props) {
   return (
-    <nav class="w-full flex justify-around items-center pt-8">
-      <a href={props.firstpatrourl} target="_blank">
+    <nav class="w-full flex justify-around items-center pt-8 transition-all">
+      <a class="hover:drop-shadow-custom-box duration-300" href={props.firstpatrourl} target="_blank">
         {props.firstpatro &&
           (
             <Image
+              class="transition-transform duration-300 transform hover:scale-110"
               width={150}
               src={props.firstpatro}
               alt={props.firstpatroname}
             />
           )}
       </a>
-      <a href={props.secondpatrourl} target="_blank">
+      <a class="hover:drop-shadow-custom-box duration-300" href={props.secondpatrourl} target="_blank">
         {props.secondpatro &&
           (
             <Image
+              class="transition-transform duration-300 transform hover:scale-110"
               width={150}
               src={props.secondpatro}
               alt={props.secondpatroname}
             />
           )}
       </a>
-      <a href={props.thirdpatrourl} target="_blank">
+      <a class="hover:drop-shadow-custom-box duration-300" href={props.thirdpatrourl} target="_blank">
         {props.thirdpatro &&
           (
             <Image
+              class="transition-transform duration-300 transform hover:scale-110"
               width={150}
               src={props.thirdpatro}
               alt={props.thirdpatroname}
             />
           )}
       </a>
-      <a href={props.fourthpatrourl} target="_blank">
+      <a class="hover:drop-shadow-custom-box duration-300" href={props.fourthpatrourl} target="_blank">
         {props.fourthpatro &&
           (
             <Image
+              class="transition-transform duration-300 transform hover:scale-110"
               width={150}
               src={props.fourthpatro}
               alt={props.fourthpatroname}
             />
           )}
       </a>
-      <a href={props.fifthpatrourl} target="_blank">
+      <a class="hover:drop-shadow-custom-box duration-300" href={props.fifthpatrourl} target="_blank">
         {props.fifthpatro &&
           (
             <Image
+              class="transition-transform duration-300 transform hover:scale-110"
               width={150}
               src={props.fifthpatro}
               alt={props.fifthpatroname}

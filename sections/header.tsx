@@ -26,19 +26,19 @@ export default function (props: props) {
           <nav class="text-primary p-[20px]">
             <a
               href="#"
-              class="text-primary py-2 px-4 border-l border-r border-neutral"
+              class="text-primary py-2 px-4 border-l border-r border-neutral hover:drop-shadow-custom-box"
             >
               {props.firstnava}
             </a>
             <a
               href="#"
-              class="text-primary py-2 px-4 border-l border-r border-neutral"
+              class="text-primary py-2 px-4 border-l border-r border-neutral hover:drop-shadow-custom-box"
             >
               {props.secondnava}
             </a>
             <a
               href="#"
-              class="text-primary py-2 px-4 border-l border-r border-neutral"
+              class="text-primary py-2 px-4 border-l border-r border-neutral hover:drop-shadow-custom-box"
             >
               {props.thirdnava}
             </a>
@@ -46,7 +46,7 @@ export default function (props: props) {
         </div>
         <div class="flex items-center">
           <nav class="gap-4 flex flex-row">
-            <a href={props.firsticonurl}>
+            <a class="hover:drop-shadow-custom-box" href={props.firsticonurl}>
               {props.firsticon &&
                 (
                   <Image
@@ -56,7 +56,7 @@ export default function (props: props) {
                   />
                 )}
             </a>
-            <a href={props.secondiconurl}>
+            <a class="hover:drop-shadow-custom-box" href={props.secondiconurl}>
               {props.secondicon &&
                 (
                   <Image
@@ -66,7 +66,7 @@ export default function (props: props) {
                   />
                 )}
             </a>
-            <a href={props.thirdiconurl}>
+            <a class="hover:drop-shadow-custom-box" href={props.thirdiconurl}>
               {props.thirdicon &&
                 (
                   <Image

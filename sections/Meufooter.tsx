@@ -40,23 +40,23 @@ export default function (props: props) {
           />
         </form>
         <div class="flex justify-center pt-10">
-          <button class="border border-secondary rounded-full text-3xl py-5 px-32 rounded-2xl text-secondary ">
+          <button class="border border-secondary rounded-full text-3xl py-3 px-8 rounded-2xl text-secondary lg:py-5 px-32">
             ENVIAR
           </button>
         </div>
       </div>
       <div class="w-2/3  border border-neutral shadow-md">
         <div class="flex justify-between items-start border border-neutral shadow-md pt-5 min-h-1/2 text-primary">
-          <nav class="pl-4 text-primary justify-center text-3xl gap-5 flex flex-col">
+          <nav class="pl-4 text-primary justify-center text-xl  flex flex-col gap-3 lg:gap-5 text-3xl">
             <a href={props.privalink}>{props.politicapriv}</a>
             <a href={props.reemblink}>{props.politicaReem}</a>
             <a href={props.fretelink}>{props.Politicafrete}</a>
           </nav>
-          <nav class="flex flex-col justify-center text-3xl gap-5">
+          <nav class="flex flex-col justify-center text-xl gap-3 lg:gap-5 text-3xl">
             <a href="#">{props.home}</a>
             <a href="#">{props.loja}</a>
           </nav>
-          <nav class="flex flex-col justify-center text-3xl gap-5">
+          <nav class="flex flex-col justify-center text-xl gap-3 lg:gap-5 text-3xl">
             <a href="#">Instagram</a>
             <a href="#">TikTok</a>
             <a href="#">Youtube</a>
