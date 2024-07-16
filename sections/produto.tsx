@@ -17,7 +17,10 @@ export interface props {
 export default function (props: props) {
   return (
     <div class="flex flex-col mx-auto px-4 max-w-[1920px] lg:flex-row">
-      <a href={props.firstLink || ""} class="w-full border border-2 cursor-pointer border-neutral overflow-hidden hover:bg-primary text-primary hover:text-info transition-all duration-500 lg:w-1/2">
+      <a
+        href={props.firstLink || ""}
+        class="w-full border border-2 cursor-pointer border-neutral overflow-hidden hover:bg-primary text-primary hover:text-info transition-all duration-500 lg:w-1/2"
+      >
         <div class="flex justify-between w-full py-8 pr-6">
           <h1 class="min-w-24 md:w-full max-w-[430] text-4xl mb-4 min-h-20 pl-4 text-start font-bold">
             {props.nomeum}
@@ -36,7 +39,10 @@ export default function (props: props) {
           <p class="p-4">{props.priceum}</p>
         </div>
       </a>
-      <a href={props.secondLink || ""} class="w-full border border-2 cursor-pointer border-neutral overflow-hidden hover:bg-primary text-primary hover:text-info transition-all duration-500 lg:w-1/2">
+      <a
+        href={props.secondLink || ""}
+        class="w-full border border-2 cursor-pointer border-neutral overflow-hidden hover:bg-primary text-primary hover:text-info transition-all duration-500 lg:w-1/2"
+      >
         <div class="flex justify-between w-full py-8 pr-6">
           <h1 class="min-w-24 md:w-full text-4xl max-w-[430px] pl-4 mb-4 min-h-20 text-start font-bold">
             {props.nomedois}

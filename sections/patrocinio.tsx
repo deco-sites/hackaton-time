@@ -26,7 +26,11 @@ export interface props {
 export default function (props: props) {
   return (
     <nav class="w-full flex justify-around items-center pt-8 transition-all">
-      <a class="hover:drop-shadow-custom-box duration-300" href={props.firstpatrourl} target="_blank">
+      <a
+        class="hover:drop-shadow-custom-box duration-300"
+        href={props.firstpatrourl}
+        target="_blank"
+      >
         {props.firstpatro &&
           (
             <Image
@@ -37,7 +41,11 @@ export default function (props: props) {
             />
           )}
       </a>
-      <a class="hover:drop-shadow-custom-box duration-300" href={props.secondpatrourl} target="_blank">
+      <a
+        class="hover:drop-shadow-custom-box duration-300"
+        href={props.secondpatrourl}
+        target="_blank"
+      >
         {props.secondpatro &&
           (
             <Image
@@ -48,7 +56,11 @@ export default function (props: props) {
             />
           )}
       </a>
-      <a class="hover:drop-shadow-custom-box duration-300" href={props.thirdpatrourl} target="_blank">
+      <a
+        class="hover:drop-shadow-custom-box duration-300"
+        href={props.thirdpatrourl}
+        target="_blank"
+      >
         {props.thirdpatro &&
           (
             <Image
@@ -59,7 +71,11 @@ export default function (props: props) {
             />
           )}
       </a>
-      <a class="hover:drop-shadow-custom-box duration-300" href={props.fourthpatrourl} target="_blank">
+      <a
+        class="hover:drop-shadow-custom-box duration-300"
+        href={props.fourthpatrourl}
+        target="_blank"
+      >
         {props.fourthpatro &&
           (
             <Image
@@ -70,7 +86,11 @@ export default function (props: props) {
             />
           )}
       </a>
-      <a class="hover:drop-shadow-custom-box duration-300" href={props.fifthpatrourl} target="_blank">
+      <a
+        class="hover:drop-shadow-custom-box duration-300"
+        href={props.fifthpatrourl}
+        target="_blank"
+      >
         {props.fifthpatro &&
           (
             <Image

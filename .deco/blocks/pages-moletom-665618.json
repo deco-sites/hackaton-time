@@ -1,0 +1,34 @@
+{
+  "__resolveType": "website/pages/Page.tsx",
+  "sections": [
+    {
+      "__resolveType": "global header"
+    },
+    {
+      "__resolveType": "site/sections/Product.tsx",
+      "images": [
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/7062da62-3806-4881-8af5-4cdd57c7347a",
+          "alt": "moletom preto"
+        }
+      ],
+      "title": "MOLETOM FLUXO GG",
+      "price": "R$189,99",
+      "description": "Official Collection FLUXO 2022",
+      "addCardText": "ADICIONAR AO CARRINHO",
+      "buyText": "COMPRAR",
+      "variations": [
+        "P",
+        "G",
+        "M",
+        "G",
+        "GG"
+      ]
+    }
+  ],
+  "name": "moletom",
+  "path": "/moletom",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  }
+}

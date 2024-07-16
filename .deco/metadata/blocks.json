@@ -196,5 +196,43 @@
   "/.deco/blocks/Preview%20%2Fsections%2Fproduto.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/produto.tsx"
+  },
+  "/.deco/blocks/pages-homeTest-6754.json": {
+    "name": "homeTest",
+    "path": "/teste",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FColecao.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Colecao.tsx"
+  },
+  "/.deco/blocks/pages-bone-949956.json": {
+    "name": "bone",
+    "path": "/bone",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-camisa%2520fluxo%252022-950507.json": {
+    "name": "camisa fluxo 22",
+    "path": "/camisafluxo22",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-moletom-665618.json": {
+    "name": "moletom",
+    "path": "/moletom",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-camisa-regata-76520.json": {
+    "name": "camisa-regata",
+    "path": "/camisaregata",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/deco-records.json": {
+    "blockType": "apps",
+    "__resolveType": "site/apps/deco/records.ts"
   }
 }
