@@ -15,5 +15,35 @@
   "firsticonurl": "#",
   "secondiconurl": "#",
   "thirdiconurl": "#",
-  "thirdicondescri": "cart"
+  "thirdicondescri": "cart",
+  "navigation": {
+    "links": [
+      {
+        "url": "/",
+        "label": "HOME"
+      },
+      {
+        "label": "LOJA",
+        "url": "/"
+      },
+      {
+        "label": "LANÇAMENTO",
+        "url": "/"
+      }
+    ],
+    "buttons": [
+      {
+        "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/fdaa40e1-8913-4130-b606-48d3a5bf3207"
+      },
+      {
+        "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/cc055bb4-ebf1-4b30-b010-52ec5816b77e"
+      },
+      {
+        "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/05f3af71-5e53-4071-85c3-1d6ed676f963"
+      }
+    ]
+  },
+  "logo": {
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11786/4a4e1064-15f3-48bd-b95a-32352b171ccc"
+  }
 }

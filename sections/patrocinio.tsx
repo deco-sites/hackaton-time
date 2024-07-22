@@ -25,7 +25,7 @@ export interface props {
 
 export default function (props: props) {
   return (
-    <nav class="w-full flex justify-around items-center pt-8 transition-all">
+    <nav class="w-full flex justify-around gap-4 items-center pt-8 transition-all">
       <a
         class="hover:drop-shadow-custom-box duration-300"
         href={props.firstpatrourl}

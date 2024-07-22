@@ -16,7 +16,7 @@ export interface props {
 
 export default function (props: props) {
   return (
-    <div class="flex flex-col mx-auto px-4 max-w-[1920px] lg:flex-row">
+    <div class="flex flex-col mx-auto max-w-[1920px] lg:flex-row">
       <a
         href={props.firstLink || ""}
         class="w-full border border-2 cursor-pointer border-neutral overflow-hidden hover:bg-primary text-primary hover:text-info transition-all duration-500 lg:w-1/2"
